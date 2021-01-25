@@ -72,6 +72,7 @@ target - in train.csv only, this denotes whether a tweet is about a real disaste
 
 ## WordCloud
 
+Word Clouds are a visual representation of the frequency of words within a given tweets.
 ![Word Cloud](https://user-images.githubusercontent.com/34357926/105754188-c7060080-5f6f-11eb-9122-71fc6319c040.PNG)
 
 ## Results
@@ -100,4 +101,7 @@ SVM is still the best as far as accuracy and training time is concerned.
 
 ## References:
 
+- https://www.kaggle.com/vbmokin/nlp-with-disaster-tweets-cleaning-data
+- https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
+- https://machinelearningmastery.com/
 
