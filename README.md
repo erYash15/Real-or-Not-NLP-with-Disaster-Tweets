@@ -3,10 +3,10 @@
 ## Project Name: NLP DISASTER TWEETS: EDA, NLP, TENSORFLOW, KERAS
 
 ### Description: 
+Sentiment Analysis of the dataset of twitter disaster tweets and predicting<br>
+&nbsp;Actual Disaster<br>
+&nbsp;Metaphorically Disaster<br>
 
-Sentiment Analysis of the dataset of twitter disaster tweets and predicting 
-  1. Actual Disaster
-  2. Metaphorically Disaster.
 Ranking - Top 7% as of 02-05-2020
 
 ### Table of Contents:
@@ -52,7 +52,7 @@ Deep Learning<br>
 
 
 ### Pre-requisites and Installation:
-This project requires **Python** and the following Python libraries installed:
+This project requires **Python** and the following Python libraries installed:<br>
 [NumPy](http://www.numpy.org/)<br>
 [Pandas](http://pandas.pydata.org/)<br>
 [Matplotlib](http://matplotlib.org/)<br>
@@ -62,6 +62,8 @@ This project requires **Python** and the following Python libraries installed:
 ![Requirements](https://user-images.githubusercontent.com/34357926/105755591-87d8af00-5f71-11eb-9bc1-865615ff5759.png)<br>
 
 ### Usage:
+
+
 
 #### Use the main.py file (contains all the subcodes combined.)
 
