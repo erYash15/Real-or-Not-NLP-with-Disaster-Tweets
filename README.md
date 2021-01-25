@@ -85,24 +85,27 @@ python anyone_file_from_objective_3.py
 
 _This is final early classififcation with earliness and accuracy._
 
+### WordCloud
+
+![Word Cloud](https://user-images.githubusercontent.com/34357926/105754188-c7060080-5f6f-11eb-9122-71fc6319c040.PNG)
+
 ### Results
+
+All the models are compared on the basis of Accuracy, Precision, Recall, F1-Score, Time. <br>
 
 ![Results](https://user-images.githubusercontent.com/34357926/105753395-a2f5ef80-5f6e-11eb-8d3e-cfda9f9c630b.png)
 
+Best Performing Models are: - Support Vector Machine, Deep Learning(Relu + Adam), Deep Learning(Relu + Adam + Dropouts)<br>
 
 
+### Conclusion
+
+Deep Learning Models are easy to overfit and underfit.<br>
+Do not underestimate the power of Machine Learning techniques.<br>
+Relu and Adam with Dropout proved to best as expected.<br>
+SVM is still the best as far as accuracy and training time is concerned.
 
 
+### References:
 
 
-### Credits:
-
-Project is based on the paper "[Early classification on multivariate time series](https://dl.acm.org/citation.cfm?id=2841855)". Author Guoliang He, Yong Duan, Rong Peng, Xiaoyuan Jing, Tieyun Qian, Lingling Wang.
-
-
-
-### License:
-
-To cite either a computer program or piece of source code you will need the following information:
-
-Yash Gupta<br />Early Classification of Time Series Data<br />https://github.com/erYash15/Multivariate-Time-Series-Early-Classification
