@@ -1,7 +1,7 @@
 # Real-or-Not-NLP-with-Disaster-Tweets
 
 
-Ranking - Top 7% as of 02-05-2020
+
 
 
 # Real-or-Not-NLP-with-Disaster-Tweets
@@ -13,54 +13,51 @@ Ranking - Top 7% as of 02-05-2020
 Sentiment Analysis of the dataset of twitter disaster tweets and predicting 
   1. Actual Disaster
   2. Metaphorically Disaster.
+Ranking - Top 7% as of 02-05-2020
 
 ### Table of Contents:
 
 Introduction<br>
-
 Libraries<br>
-
 Loading Data<br>
-
 Exploratory Data Analysis<br>
  &nbsp; Analyzing Labels<br>
   &nbsp;Analyzing Features<br>
     &nbsp;&nbsp;Sentence Length Analysis<br>
-
 Data Cleaning
-  Remove URL
-  Handle Tags
-  Handle Emoji
-  Remove HTML Tags
-  Remove Stopwords and Stemming
-  Remove Useless Characters
-  WORLDCLOUD
+  &nbsp; Remove URL
+ &nbsp; Handle Tags
+ &nbsp; Handle Emoji
+&nbsp;  Remove HTML Tags
+&nbsp;  Remove Stopwords and Stemming
+&nbsp;  Remove Useless Characters
+&nbsp;  WORLDCLOUD
 
 Final Pre-Processing Data
 
 Machine Learning
-  Logistic Regression
-  Navie Bayes
-    Gaussian Naive Bayes
-    Bernoulli Naive Bayes
-    Complement Naive Bayes
-    Multinomial Naive Bayes
-  Support Vector Machine (SVM)
-    RBF kernel SVM
-    Linear Kernel SVM
-  Random Forest
+ &nbsp; Logistic Regression
+ &nbsp; Navie Bayes
+&nbsp;&nbsp;    Gaussian Naive Bayes
+ &nbsp;&nbsp;   Bernoulli Naive Bayes
+ &nbsp;&nbsp;   Complement Naive Bayes
+ &nbsp;&nbsp;   Multinomial Naive Bayes
+ &nbsp; Support Vector Machine (SVM)
+  &nbsp;&nbsp;  RBF kernel SVM
+ &nbsp;&nbsp;   Linear Kernel SVM
+ &nbsp; Random Forest
 
 Deep Learning
-  Single Layer Perceptron
-  Multi Layer Perceptron
-    Model 1 : SIGMOID + ADAM
-    Model 2 : SIGMOID + SGD
-    Model 3 : RELU + ADAM
-    Model 4 : RELU + SGD
-    Model 5 : SIGMOID + BATCH NORMALIZATION + ADAM
-    Model 6 : SIGMOID + BATCH NORMALIZATION + SGD
-    Model 7 : RELU + DROPOUT + ADAM
-    Model 8 : RELU + DROPOUT + SGD
+&nbsp;  Single Layer Perceptron
+&nbsp;  Multi Layer Perceptron
+&nbsp;&nbsp;    Model 1 : SIGMOID + ADAM
+&nbsp;&nbsp;    Model 2 : SIGMOID + SGD
+&nbsp;&nbsp;    Model 3 : RELU + ADAM
+&nbsp;&nbsp;    Model 4 : RELU + SGD
+&nbsp;&nbsp;    Model 5 : SIGMOID + BATCH NORMALIZATION + ADAM
+&nbsp;&nbsp;    Model 6 : SIGMOID + BATCH NORMALIZATION + SGD
+&nbsp;&nbsp;    Model 7 : RELU + DROPOUT + ADAM
+&nbsp;&nbsp;    Model 8 : RELU + DROPOUT + SGD
 
 
 ### Pre-requisites and Installation:
