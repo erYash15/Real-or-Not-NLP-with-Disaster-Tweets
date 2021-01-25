@@ -7,8 +7,6 @@ Sentiment Analysis of the dataset of twitter disaster tweets and predicting<br>
 &nbsp; Actual Disaster<br>
 &nbsp; Metaphorically Disaster<br>
 
-Ranking - Top 7% as of 02-05-2020
-
 ### Table of Contents:
 
 Introduction<br>
@@ -61,35 +59,21 @@ This project requires **Python** and the following Python libraries installed:<b
 &nbsp;&nbsp; [Keras](https://keras.io/)<br><br>
 ![Requirements](https://user-images.githubusercontent.com/34357926/105755591-87d8af00-5f71-11eb-9bc1-865615ff5759.png)<br>
 
-### Usage:
 
 
-
-#### Use the main.py file (contains all the subcodes combined.)
-
-In a terminal or command window, navigate to the top-level project directory `Multivariate-Time-series-classification/` (that contains this README) and run command in sequence:
-
-```bash
-python anyone_file_from_objective_1.py
-```
-
-_This may take time, then do_
-```bash
-python files_from_objective_2.py
-```
-
-_either greedy or SI method files only one by one, then do_
-```bash
-python anyone_file_from_objective_3.py
-```
-
-_This is final early classififcation with earliness and accuracy._
 
 ### WordCloud
 
 ![Word Cloud](https://user-images.githubusercontent.com/34357926/105754188-c7060080-5f6f-11eb-9122-71fc6319c040.PNG)
 
 ### Results
+
+#### Key Performance Index:
+
+**Micro f1 score**: Calculate metrics globally by counting the total true positives, false negatives and false positives. This is a better metric when we have class imbalance.<br>
+**Macro f1 score**: Calculate metrics for each label, and find their unweighted mean. This does not take label imbalance into account.<br>
+**Micro-Averaged F1-Score (Mean F Score)**: The F1 score can be interpreted as a weighted average of the precision and recall, where an F1 score reaches its best value at 1 and worst score at 0. The relative contribution of precision and recall to the F1 score are equal. The formula for the F1 score is:<br>
+F1 = 2 (precision recall) / (precision + recall)
 
 All the models are compared on the basis of Accuracy, Precision, Recall, F1-Score, Time. <br>
 
