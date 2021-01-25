@@ -4,8 +4,8 @@
 
 ### Description: 
 Sentiment Analysis of the dataset of twitter disaster tweets and predicting<br>
-&nbsp;Actual Disaster<br>
-&nbsp;Metaphorically Disaster<br>
+&nbsp; Actual Disaster<br>
+&nbsp; Metaphorically Disaster<br>
 
 Ranking - Top 7% as of 02-05-2020
 
@@ -53,12 +53,12 @@ Deep Learning<br>
 
 ### Pre-requisites and Installation:
 This project requires **Python** and the following Python libraries installed:<br>
-[NumPy](http://www.numpy.org/)<br>
-[Pandas](http://pandas.pydata.org/)<br>
-[Matplotlib](http://matplotlib.org/)<br>
-[scikit-learn](http://scikit-learn.org/stable/)<br>
-[Tensorflow](https://www.tensorflow.org/)<br>
-[Keras](https://keras.io/)<br>
+&nbsp;&nbsp; [NumPy](http://www.numpy.org/)<br>
+&nbsp;&nbsp; [Pandas](http://pandas.pydata.org/)<br>
+&nbsp;&nbsp; [Matplotlib](http://matplotlib.org/)<br>
+&nbsp;&nbsp; [scikit-learn](http://scikit-learn.org/stable/)<br>
+&nbsp;&nbsp; [Tensorflow](https://www.tensorflow.org/)<br>
+&nbsp;&nbsp; [Keras](https://keras.io/)<br><br>
 ![Requirements](https://user-images.githubusercontent.com/34357926/105755591-87d8af00-5f71-11eb-9bc1-865615ff5759.png)<br>
 
 ### Usage:
@@ -87,11 +87,12 @@ _This is final early classififcation with earliness and accuracy._
 
 ### Results
 
-![Datasets](https://user-images.githubusercontent.com/34357926/102748576-6e4bb280-4388-11eb-8ff0-2376ef519a85.png)
+![Results](https://user-images.githubusercontent.com/34357926/105753395-a2f5ef80-5f6e-11eb-8d3e-cfda9f9c630b.png)
 
-![Summary Part 2](https://user-images.githubusercontent.com/34357926/102748577-6ee44900-4388-11eb-814f-fa8986ba208f.png)
 
-![Summary Part 3](https://user-images.githubusercontent.com/34357926/102748573-6c81ef00-4388-11eb-900c-efb769a60829.png)
+
+
+
 
 
 ### Credits:
