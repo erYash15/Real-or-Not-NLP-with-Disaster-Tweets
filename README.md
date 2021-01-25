@@ -53,15 +53,13 @@ Deep Learning<br>
 
 ### Pre-requisites and Installation:
 This project requires **Python** and the following Python libraries installed:
-
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
-- [Matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-- [Tensorflow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-
-![Requirements](https://user-images.githubusercontent.com/34357926/105755591-87d8af00-5f71-11eb-9bc1-865615ff5759.png)
+[NumPy](http://www.numpy.org/)<br>
+[Pandas](http://pandas.pydata.org/)<br>
+[Matplotlib](http://matplotlib.org/)<br>
+[scikit-learn](http://scikit-learn.org/stable/)<br>
+[Tensorflow](https://www.tensorflow.org/)<br>
+[Keras](https://keras.io/)<br>
+![Requirements](https://user-images.githubusercontent.com/34357926/105755591-87d8af00-5f71-11eb-9bc1-865615ff5759.png)<br>
 
 ### Usage:
 
