@@ -16,16 +16,16 @@ Sentiment Analysis of the dataset of twitter disaster tweets and predicting
 
 ### Table of Contents:
 
-Introduction
+Introduction<br>
 
-Libraries
+Libraries<br>
 
-Loading Data
+Loading Data<br>
 
-Exploratory Data Analysis
-  Analyzing Labels
-  Analyzing Features
-    Sentence Length Analysis
+Exploratory Data Analysis<br>
+ &nbsp; Analyzing Labels<br>
+  &nbsp;Analyzing Features<br>
+    &nbsp;&nbsp;Sentence Length Analysis<br>
 
 Data Cleaning
   Remove URL
