@@ -1,11 +1,5 @@
 # Real-or-Not-NLP-with-Disaster-Tweets
 
-
-
-
-
-# Real-or-Not-NLP-with-Disaster-Tweets
-
 ## Project Name: NLP DISASTER TWEETS: EDA, NLP, TENSORFLOW, KERAS
 
 ### Description: 
@@ -24,40 +18,37 @@ Exploratory Data Analysis<br>
  &nbsp; Analyzing Labels<br>
   &nbsp;Analyzing Features<br>
     &nbsp;&nbsp;Sentence Length Analysis<br>
-Data Cleaning
-  &nbsp; Remove URL
- &nbsp; Handle Tags
- &nbsp; Handle Emoji
-&nbsp;  Remove HTML Tags
-&nbsp;  Remove Stopwords and Stemming
-&nbsp;  Remove Useless Characters
-&nbsp;  WORLDCLOUD
-
-Final Pre-Processing Data
-
-Machine Learning
- &nbsp; Logistic Regression
- &nbsp; Navie Bayes
-&nbsp;&nbsp;    Gaussian Naive Bayes
- &nbsp;&nbsp;   Bernoulli Naive Bayes
- &nbsp;&nbsp;   Complement Naive Bayes
- &nbsp;&nbsp;   Multinomial Naive Bayes
- &nbsp; Support Vector Machine (SVM)
-  &nbsp;&nbsp;  RBF kernel SVM
- &nbsp;&nbsp;   Linear Kernel SVM
- &nbsp; Random Forest
-
-Deep Learning
-&nbsp;  Single Layer Perceptron
-&nbsp;  Multi Layer Perceptron
-&nbsp;&nbsp;    Model 1 : SIGMOID + ADAM
-&nbsp;&nbsp;    Model 2 : SIGMOID + SGD
-&nbsp;&nbsp;    Model 3 : RELU + ADAM
-&nbsp;&nbsp;    Model 4 : RELU + SGD
-&nbsp;&nbsp;    Model 5 : SIGMOID + BATCH NORMALIZATION + ADAM
-&nbsp;&nbsp;    Model 6 : SIGMOID + BATCH NORMALIZATION + SGD
-&nbsp;&nbsp;    Model 7 : RELU + DROPOUT + ADAM
-&nbsp;&nbsp;    Model 8 : RELU + DROPOUT + SGD
+Data Cleaning<br>
+  &nbsp; Remove URL<br>
+ &nbsp; Handle Tags<br>
+ &nbsp; Handle Emoji<br>
+&nbsp;  Remove HTML Tags<br>
+&nbsp;  Remove Stopwords and Stemming<br>
+&nbsp;  Remove Useless Characters<br>
+&nbsp;  WORLDCLOUD<br>
+Final Pre-Processing Data<br>
+Machine Learning<br>
+ &nbsp; Logistic Regression<br>
+ &nbsp; Navie Bayes<br>
+&nbsp;&nbsp;    Gaussian Naive Bayes<br>
+ &nbsp;&nbsp;   Bernoulli Naive Bayes<br>
+ &nbsp;&nbsp;   Complement Naive Bayes<br>
+ &nbsp;&nbsp;   Multinomial Naive Bayes<br>
+ &nbsp; Support Vector Machine (SVM)<br>
+  &nbsp;&nbsp;  RBF kernel SVM<br>
+ &nbsp;&nbsp;   Linear Kernel SVM<br>
+ &nbsp; Random Forest<br>
+Deep Learning<br>
+&nbsp;  Single Layer Perceptron<br>
+&nbsp;  Multi Layer Perceptron<br>
+&nbsp;&nbsp;    Model 1 : SIGMOID + ADAM<br>
+&nbsp;&nbsp;    Model 2 : SIGMOID + SGD<br>
+&nbsp;&nbsp;    Model 3 : RELU + ADAM<br>
+&nbsp;&nbsp;    Model 4 : RELU + SGD<br>
+&nbsp;&nbsp;    Model 5 : SIGMOID + BATCH NORMALIZATION + ADAM<br>
+&nbsp;&nbsp;    Model 6 : SIGMOID + BATCH NORMALIZATION + SGD<br>
+&nbsp;&nbsp;    Model 7 : RELU + DROPOUT + ADAM<br>
+&nbsp;&nbsp;    Model 8 : RELU + DROPOUT + SGD<br>
 
 
 ### Pre-requisites and Installation:
