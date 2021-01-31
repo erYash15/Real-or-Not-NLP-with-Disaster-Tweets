@@ -2,7 +2,7 @@
 
 ## Project Name: NLP DISASTER TWEETS: EDA, NLP, TENSORFLOW, KERAS
 
-## Description: 
+## Problem Description: 
 Sentiment Analysis of the dataset of twitter disaster tweets and predicting<br>
 &nbsp; Actual Disaster<br>
 &nbsp; Metaphorically Disaster<br>
